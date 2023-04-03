@@ -70,7 +70,6 @@ th{
 /* INIZIO FOOTER */
 .img-footer{
     background-size: 250px ;
-    background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
     margin-top: 10px;
 }
@@ -80,4 +79,14 @@ th{
     font-size: 20px;
     color: white;
     padding-bottom: 150px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.img-graph{
+    background-image: url(../img/graph.jpg);
+}
+
+.img-monitor{
+    background-image: url(../img/monitor.jpg);
 }
