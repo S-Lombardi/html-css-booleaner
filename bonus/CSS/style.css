@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.padding{
+    padding-left: 130px;
+    padding-right: 130px;
+}
+/* INIZIO HEADER*/
+#logo{
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.background-pattern{
+    background-color:rgb(81, 160, 255) ;
+    background-image: url(../img/pattern.png);
+    padding-top: 65px;
+    background-size: 500px;
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+h3{
+    font-size: 23px;
+    color: gray;
+}
+
+a{
+    color: rgb(99, 187, 241);
+    text-decoration: none;
+
+}
+
+h4{
+    color: gray;
+    margin-bottom: 20px;
+}
+/* FINE HEADER*/
+
+/* INIZIO MAIN*/
+.space-paragraph{
+    margin-top: 30px;
+}
+
+ul{
+    margin-left: 20px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+th{
+    color: white;
+    background-color: rgb(32,169,229);
+    text-align: left;
+    width: 33%;
+}
+
+.odd-row{
+    background-color: rgb(177,229,242);
+}
+/* FINE MAIN*/
+
+/* INIZIO FOOTER */
+.img-footer{
+    background-size: 250px ;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+
+.txt-footer{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding-bottom: 150px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.img-graph{
+    background-image: url(../img/graph.jpg);
+}
+
+.img-monitor{
+    background-image: url(../img/monitor.jpg);
+}
