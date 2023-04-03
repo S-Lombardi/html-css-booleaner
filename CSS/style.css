@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+main{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
 /* INIZIO HEADER*/
 #logo{
     width: 200px;
