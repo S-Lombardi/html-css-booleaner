@@ -50,6 +50,17 @@ ul{
     margin-left: 20px;
 }
 
+table{
+    width: 100%;
+
+}
 th{
+    color: white;
+    background-color: rgb(65, 166, 225);
     text-align: left;
+    width: 33%;
+}
+
+.odd-row{
+    background-color: rgb(123, 207, 233);
 }
